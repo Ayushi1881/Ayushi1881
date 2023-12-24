@@ -1,11 +1,11 @@
 
 
 
-<h2 align="left">- 👋 Hi, I’m @Ayushi1881</h2>
+<h2 align="left"> 👋 Hi, I’m @Ayushi1881</h2>
 <h3>- 👀 I’m interested in Web Development</h3>
 <h3>- 🌱 I’m currently learning DSA and React</h3>
 <h3>- 💞️ I’m looking to collaborate on web development projects</h3>
-<h3>- 📫 How to reach me https://www.linkedin.com/in/ayushi-gupta-604646202/</h3>
+
 
 ###
 
